@@ -105,7 +105,6 @@ np.save('BraTS2020_TrainingData/combined075.npy', combined_x)
 
 my_img=np.load('BraTS2020_TrainingData/combined075.npy')
 
-#print(combined_x==my_img.all())
 
 test_mask = to_categorical(test_mask, num_classes=4)
 
@@ -128,9 +127,7 @@ for img in range(len(t2_list)):
         
     temp_mask=nib.load(mask_list[img]).get_fdata()
     temp_mask=temp_mask.astype(np.uint8)
-    temp_mask[temp_mask==4] = 3  #Reassign mask values 4 to 3
-    #print(np.unique(temp_mask))
-    
+    temp_mask[temp_mask==4] = 3  
     
     temp_combined_images = np.stack([temp_image_flair, temp_image_t1ce, temp_image_t2], axis=3)
     
