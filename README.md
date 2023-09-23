@@ -5,7 +5,7 @@
 ![plot1y](https://user-images.githubusercontent.com/111432785/234045376-99493ee3-bc3a-41f7-8795-300778fff09c.png)
 ![plot3y](https://user-images.githubusercontent.com/111432785/234045394-e698011d-3185-4e64-9ce7-fa639704329e.png)
 
-##
+
 
 # Project Overview
 Medical images, especially those from MRI or CT scans, can be intricate and densely detailed. Distinguishing between healthy and abnormal tissue, like tumors, often requires meticulous examination, which can be time-consuming. Traditional segmentation methods often involve manual tracing or outlining of regions of interest, such as tumors. This process is painstaking and can take a considerable amount of time, particularly for complex or irregularly shaped tumors. Precision in medical image segmentation is crucial but can be time-consuming for radiologists due to factors such as complex images, manual tracing, large datasets, variability, and the need for meticulous verification. These time constraints can impact radiologists' overall efficiency and patient care. Automated segmentation methods can alleviate this burden, enabling radiologists to give more importance and attention to the processes of confirming the accuracy of the segmentation results and making clinical decisions based on those results. This, in turn, enhances the quality of patient care by reducing the risk of diagnostic errors and supporting more effective treatment planning.
