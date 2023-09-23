@@ -8,7 +8,7 @@
 
 
 # Project Overview
-Medical images, particularly from MRI or CT scans, are highly detailed but can be time-consuming to interpret. Traditional methods involve manual tracing of areas like tumors, which is time-consuming and painstaking, especially for complex cases. This process, coupled with the need for precise verification, can affect radiologists' efficiency and patient care. Automated segmentation methods can ease this burden, allowing radiologists to focus on verifying accuracy of output segmentation maps and making accurate clinical decisions. This ultimately improves patient care by reducing diagnostic errors and enhancing treatment planning.
+Medical images, particularly from MRI or CT scans, are highly detailed but can be time-consuming to interpret. Traditional methods involve manual tracing of areas like tumors, which is time-consuming and painstaking, especially for complex shapes of tumor. This process, coupled with the need for precise verification, can affect radiologists' efficiency and patient care. Automated segmentation methods can ease this burden, allowing radiologists to focus on verifying accuracy of output segmentation maps and making accurate clinical decisions. This ultimately improves patient care by reducing diagnostic errors and enhancing treatment planning.
 
 
 The task involved developing a 3D U-Net model using Convolutional Neural Networks (CNNs) to perform accurate segmentation of brain tumors. Within the Brats2020 dataset, the data for 185 tumor-affected patients was organized into folders. These folders contained 3D MRI scans of multiple modalities in the NIfTI format.
