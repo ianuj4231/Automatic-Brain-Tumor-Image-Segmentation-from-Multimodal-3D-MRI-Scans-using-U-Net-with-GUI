@@ -7,7 +7,7 @@ diagnostic accuracy, aiding radiologists and neurologists. Subsequently, integra
 a full-stack application using Streamlit for both the frontend and backend, with a UI using
 HTML and CSS, bridging frontend and backend development for seamless doctor interaction. 
 
-          
+##          
      
      
 ![plot1y](https://user-images.githubusercontent.com/111432785/234045376-99493ee3-bc3a-41f7-8795-300778fff09c.png)
