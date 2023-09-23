@@ -1,7 +1,11 @@
 # Automatic Brain Tumor Image Segmentation from Multi-Modal 3D MRI Scans Using U-Net Architecture (with Graphical User Interface).
 
-**Status:**   _**The project has been wrapped up, but a meticulously detailed README description still needs to be added.**_
-
+Developed a 3D U-Net model using CNNs to accurately segment brain tumors from the Brats2020
+dataset. The U-Net model achieved an average Dice coefficient of 0.844 indicating high accuracy in
+brain tumor segmentation and it is competitive with state-of-the-art methods. This model enhances
+diagnostic accuracy, aiding radiologists and neurologists. Subsequently, integrated the project into
+a full-stack application using Streamlit for both the frontend and backend, with a UI using
+HTML and CSS, bridging frontend and backend development for seamless doctor interaction. 
 
           
      
