@@ -18,4 +18,4 @@ Developed a 3D U-Net model using CNNs to accurately segment brain tumors from th
 Subsequently, integrated the project into a full-stack application using Streamlit for both the frontend and backend, with an elegant UI using HTML and CSS, bridging frontend and backend development for seamless doctor interaction.
 
 
-https://send-eth-drab.vercel.app/
+
