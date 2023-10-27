@@ -16,3 +16,6 @@ The task involved developing a 3D U-Net model using Convolutional Neural Network
 Developed a 3D U-Net model using CNNs to accurately segment brain tumors from the Brats2020 dataset. The U-Net model achieved an average Dice coefficient of 0.844 indicating high accuracy in brain tumor segmentation and it is competitive with state-of-the-art methods. This model enhances diagnostic accuracy, aiding radiologists and neurologists. 
 
 Subsequently, integrated the project into a full-stack application using Streamlit for both the frontend and backend, with an elegant UI using HTML and CSS, bridging frontend and backend development for seamless doctor interaction.
+
+
+https://send-eth-drab.vercel.app/
